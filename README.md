@@ -375,7 +375,6 @@ color:red;
 <h1 class='align' >Maths-Study materials</h1><hr>
 <p style='color:Green'>
 Name of the Book &nbsp;&nbsp;&nbsp;&nbsp; Price&nbsp;&nbsp;&nbsp;&nbsp;Quantity</p>
-
 <form> 
    <input type = "checkbox" id = "item1" name = "item1"   >
    <label for = "item1">R.D.Sharma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₹950 </label> &nbsp;&nbsp;&nbsp;&nbsp;
