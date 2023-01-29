@@ -510,7 +510,6 @@ var checkbox5=document.getElementById('item5');
 </html>
 ```
 ## OUTPUT:
-
 ### Home Page:
 ![output](./ss1.png)
 ### Math.html
